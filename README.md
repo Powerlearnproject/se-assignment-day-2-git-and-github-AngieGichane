@@ -11,7 +11,7 @@ Version control helps you track changes, collaborate with others, and manage dif
 - Choose whether to add a README file (it’s like a guide for your project!).
 - Pick a license if you want to share your code with rules (like MIT or GNU).
 - Click “Create repository”.
-- 
+  
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 The README file is like the face of your project. It tells people what your project is about, how to use it, and how to contribute. A well-written README makes collaboration easier because it gives everyone the info they need to understand and work on the project. 
 A good README should include:
